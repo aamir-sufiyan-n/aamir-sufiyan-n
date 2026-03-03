@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Full-stack Developer
 --------------------
 
-I've been learning full-stack web development for the past 8 months, Gaining knowledge in both frontent and backend technologies specializing in Golang+react.
+I've been learning full-stack web development for the past 8 months, Gaining knowledge in both frontend and backend technologies specializing in Golang+react.
 
 Ive did several mini-projects as well as Two major projects gaining hands-on experience in web development
 
