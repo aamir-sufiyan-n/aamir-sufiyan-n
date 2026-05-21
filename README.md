@@ -1,4 +1,7 @@
-![MasterHead](https://cdn.dribbble.com/userupload/22007674/file/original-8edd3cfa1b2aed40d8272d9df59c44d2.gif)
+
+
+<img src="https://cdn.dribbble.com/userupload/22007674/file/original-8edd3cfa1b2aed40d8272d9df59c44d2.gif" alt="MasterHead" width="100%" />
+
 
 <div align="center">
 
