@@ -1,26 +1,93 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Aamir Sufiyan N
-========================================================================================================================================
+![MasterHead](https://cdn.dribbble.com/userupload/22007674/file/original-8edd3cfa1b2aed40d8272d9df59c44d2.gif)
 
-Full-stack Developer
---------------------
+<div align="center">
 
-I've been learning full-stack web development for the past 8 months, Gaining knowledge in both frontend and backend technologies specializing in Golang+react.
+<h1>Hey there <img src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/gifs/Hi.gif" width="30" /> I'm <strong>Aamir</strong> 🦖</h1>
+<h3>Full Stack Developer | GoLang • React   </h3>
 
-Ive did several mini-projects as well as Two major projects gaining hands-on experience in web development
-
-Ive built a full-stack e-commerce website for a clothing store, where i used react,tailwindCSS for frontentd and Golang with Gin and Gorm for backend
-
-Im currently Working on a part-time hiring application solely focused on Local businesses Im using Golang with Fiber, Gorm and PSQL for backend and React with tailwind CSSfor frontend
-
-* 🌍  I'm based in Kerala,India
-* ✉️  You can contact me at [aamirsufiyan848@gmail.com](mailto:aamirsufiyan848@gmail.com)
-* 🧠  I'm currently learning Fiber, Redis, gRPC, Web Socket
-* 💬  Ask me about Im passionate about art and creativity
-
-<p align="left">
-<a href="https://go.dev/doc/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/go-colored.svg" alt="Go" title="Go" width="36" height="36" /></a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" alt="JavaScript" title="JavaScript" width="36" height="36" /></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode-colored.svg" alt="VS Code" title="VS Code" width="36" height="36" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" alt="HTML5" title="HTML5" width="36" height="36" /></a><a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" alt="React" title="React" width="36" height="36" /></a><a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" alt="CSS3" title="CSS3" width="36" height="36" /></a><a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" alt="TailwindCSS" title="TailwindCSS" width="36" height="36" /></a><a href="https://mui.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/materialui-colored.svg" alt="Material UI" title="Material UI" width="36" height="36" /></a><a href="https://vitejs.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vite-colored.svg" alt="Vite" title="Vite" width="36" height="36" /></a><a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" alt="PostgreSQL" title="PostgreSQL" width="36" height="36" /></a>
+<p>
+  <a href="https://www.linkedin.com/in/aamir-sufiyan-n/" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" width="35" height="35"/>
+  </a>
 </p>
 
-### Socials
+</div>
 
-<p align="left"> <a href="https://www.github.com/aamir-sufiyan-n" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" title="GitHub" /> </picture> </a> <a href="https://www.linkedin.com/in/aamir-sufiyan-n/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" title="LinkedIn" /> </picture> </a></p>
+---
+
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=aamir-sufiyan-n&theme=tokyonight&margin-w=10&margin-h=10&no-bg=true" alt="GitHub Trophies" />
+  </a>
+</p> 
+
+ 
+📫 Reach me anytime → **aamirsufiyan848@gmail.com**
+
+---
+
+<h2 align="center">🛠️ Technologies & Tools I Work With</h2>
+
+<table align="center">
+
+  <tr>
+    <td align="center"><img src="https://miro.medium.com/v2/resize:fit:500/1*lSUb1T4YW1td0UskwsGZ1w.gif" alt="Go" width="55"/><br><b>Go</b></td>
+    <td align="center"><img src="https://raw.githubusercontent.com/gin-gonic/logo/master/color.png" alt="Gin" width="55"/><br><b>Gin</b></td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" /><br><b>PostgreSQL</b></td>
+    <td align="center"><img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="REST API" width="62"/><br><b>REST API</b></td>
+    <td align="center"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="55"/><br><b>Postman</b></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=tailwind" alt="TailwindCSS" width="55"/><br><b>TailwindCSS</b></td>
+    <td align="center"><img src="https://avatars.githubusercontent.com/u/4314092?s=200&v=4" alt="GORM" width="55"/><br><b>GORM</b></td>
+    <td align="center"> <img src="https://jwt.io/img/pic_logo.svg" alt="JWT" width="55"/><br><b>JWT</b</td>
+    <td align="center"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" /><br><b>Docker</b</td>
+  </tr>
+  
+  <tr>
+    <td align="center"><img src="https://skillicons.dev/icons?i=html" alt="HTML5" width="55"/><br><b>HTML5</b></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=css" alt="CSS3" width="55"/><br><b>CSS3</b></td>
+    <td align="center"><img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="65"/><br><b>JavaScript</b></td>
+     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redis/redis-original.svg" /><br><b>Redis</b></td> 
+    <td align="center"><img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="65"/><br><b>React</b></td>
+    <td align="center"><img src="https://techstack-generator.vercel.app/redux-icon.svg" alt="Redux" width="65"/><br><b>Redux</b></td>
+    <td align="center"> <img src="https://upload.wikimedia.org/wikipedia/commons/4/45/Notion_app_logo.png"alt="Notion" width="48"/><br><b>Notion</b></td>
+      <td align="center"> 
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fiber/fiber-line.svg" />
+          <br><b>Fiber</b></td>  
+ </tr>
+
+ 
+</table>
+
+---
+
+<h2 align="center">🚀 About Me</h2>
+
+I’ve been diving deep into:
+- ⚙️ **Go (Golang)** with **Gin** for creating powerful APIs  
+- 🗄️ **PSQL** for database management and queries  
+- 🌐 **HTML, CSS, JavaScript** for clean and responsive UIs  
+- ⚛️ **ReactJS** for modern frontend development  
+- 🎨  **TailwindCSS** for styling with speed  
+- 🧠 **REST APIs** & **Postman** for testing and connecting front to back  
+---
+
+<h2 align="center">📊 GitHub Analytics</h2>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hashimhashi47&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=hashimhashi47&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" width="49%" /> 
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=hashimhashi47&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=60" alt="Top Languages" />
+</p>
+
+---
+
+<div align="center">
+
+**![Snake animation](https://github.com/hashimhashi47/hashimhashi47/blob/output/github-snake-dark.svg)**  
+
+<img src="https://komarev.com/ghpvc/?username=hashimhashi47&label=Profile%20views&color=blueviolet&style=flat-square" alt="Profile Views" />
+
+</div>
