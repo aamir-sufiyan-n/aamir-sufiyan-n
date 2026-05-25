@@ -77,20 +77,20 @@ I’ve been diving deep into:
 <h2 align="center">📊 GitHub Analytics</h2>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hashimhashi47&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="49%" />
-  <img src="https://github-readme-stats.vercel.app/api?username=hashimhashi47&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" width="49%" /> 
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aamir-sufiyan-n&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=aamir-sufiyam-n&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" width="49%" /> 
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=hashimhashi47&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=60" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=aamir-sufiyan-n&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=60" alt="Top Languages" />
 </p>
 
 ---
 
 <div align="center">
 
-**![Snake animation](https://github.com/hashimhashi47/hashimhashi47/blob/output/github-snake-dark.svg)**  
+**![Snake animation](https://github.com/aamir-sufiyan-n/aamir-sufiyan-n/blob/output/github-snake-dark.svg)**  
 
-<img src="https://komarev.com/ghpvc/?username=hashimhashi47&label=Profile%20views&color=blueviolet&style=flat-square" alt="Profile Views" />
+<img src="https://komarev.com/ghpvc/?username=aamir-sufiyan-n&label=Profile%20views&color=blueviolet&style=flat-square" alt="Profile Views" />
 
 </div>
