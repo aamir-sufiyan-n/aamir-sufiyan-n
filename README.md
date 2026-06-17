@@ -89,7 +89,7 @@ I’ve been diving deep into:
 
 <div align="center">
 
-**![Snake animation](https://github.com/aamir-sufiyan-n/aamir-sufiyan-n/blob/output/github-snake-dark.svg)**  
+
 
 <img src="https://komarev.com/ghpvc/?username=aamir-sufiyan-n&label=Profile%20views&color=blueviolet&style=flat-square" alt="Profile Views" />
 
